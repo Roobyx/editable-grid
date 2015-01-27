@@ -1,5 +1,6 @@
 {
-  "name": "editable-grid",
-  "version": "2.0.1",
-  "main": "editablegrid-2.0.1.js"
+	"name": "editable-grid",
+	version: "2.0.1",
+	"main": "editablegrid-2.0.1.js",
+	"license": "MIT"
 }
