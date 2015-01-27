@@ -1,10 +1,9 @@
 {
   "name": "editable-grid",
   "main": [
-    "editablegrid-2.0.1.js",
     "editablegrid-2.0.1.css",
+    "editablegrid-2.0.1.js"
   ],
-  "version": "2.0.1",
   "authors": [
     "Webismymind"
   ],
@@ -12,6 +11,7 @@
   "moduleType": [
     "globals"
   ],
+  "version": "2.0.1",
   "keywords": [
     "table",
     "grid",
