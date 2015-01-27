@@ -1,26 +1,15 @@
 {
   "name": "editable-grid",
-  "main": "editablegrid-2.0.1.js",
-  "authors": [
-    "Webismymind"
-  ],
-  "description": "EditableGrid is an open source JavaScript library aimed at turning tables into fully editable components. Its API is focused on simplicity : only a few lines of code are necessary to get your first editable grid up and running.",
-  "moduleType": [
-    "globals"
-  ],
   "version": "2.0.1",
-  "keywords": [
-    "table",
-    "grid",
-    "editable",
-    "sortable",
-    "search",
-    "pagination"
+  "license": [
+    "MIT"
   ],
-  "license": "MIT",
-  "homepage": "http://www.editablegrid.net/",
+  "main": [
+    "editablegrid-2.0.1.js",
+    "editablegrid-2.0.1.css"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Roobyx/editableGrid.git"
+    "url": "git://github.com/Roobyx/editableGrid.git"
   }
 }
