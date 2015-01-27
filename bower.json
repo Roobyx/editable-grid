@@ -18,5 +18,16 @@
     "pagination"
   ],
   "license": "MIT",
-  "homepage": "http://www.editablegrid.net/"
+  "homepage": "http://www.editablegrid.net/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minhur/bootstrap-toggle.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
