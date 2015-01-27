@@ -1,9 +1,6 @@
 {
   "name": "editable-grid",
-  "main": [
-    "editablegrid-2.0.1.css",
-    "editablegrid-2.0.1.js"
-  ],
+  "main": "editablegrid-2.0.1.js",
   "authors": [
     "Webismymind"
   ],
