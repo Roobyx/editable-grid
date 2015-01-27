@@ -1,0 +1,22 @@
+{
+  "name": "editableGrid",
+  "main": "editablegrid-2.0.1.js",
+  "version": "2.0.1",
+  "authors": [
+    "Webismymind"
+  ],
+  "description": "EditableGrid is an open source JavaScript library aimed at turning tables into fully editable components. Its API is focused on simplicity : only a few lines of code are necessary to get your first editable grid up and running.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "table",
+    "grid",
+    "editable",
+    "sortable",
+    "search",
+    "pagination"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.editablegrid.net/"
+}
