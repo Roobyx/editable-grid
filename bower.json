@@ -21,13 +21,7 @@
   "homepage": "http://www.editablegrid.net/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/minhur/bootstrap-toggle.git"
+    "url": "https://github.com/Roobyx/editableGrid.git"
   },
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "ignore": []
 }
